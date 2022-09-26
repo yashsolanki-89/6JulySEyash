@@ -1,0 +1,8 @@
+Class: class is a blueprint for an object 
+object : it is an instance/object of a class
+eg :
+friut is class 
+apple,banana etc are the objects for fruit class
+
+NOTE : 
+"A class can have multiple objects but an object may have a single class "
